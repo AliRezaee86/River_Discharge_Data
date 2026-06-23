@@ -8,5 +8,3 @@
 * Runoff water equivalent (surface plus subsurface)
 
 Also provided are two ancillary files for interpretation, one containing upstream area data and the other containing elevation data (see the table of related variables and the associated link in the documentation).
-.
-.
